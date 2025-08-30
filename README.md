@@ -3,8 +3,8 @@ I have completed Cyber Security fundamental bootcamp in 2023, just revising the 
 ## EYGDS Cybersecurity Bootcamp Certificate 
 ![certs](EY_Certificate.jpg)
 
-# SSO: Single Sign On
-## Single Sign On (SSO) is a type of authentication in which a user logs in to one system and is automatically granted access to other services.
+# 👨‍💻 SSO: Single Sign On
+## ✅ Single Sign On (SSO) is a type of authentication in which a user logs in to one system and is automatically granted access to other services.
 ### NON-SSO Architecture
 ![non-sso](non-sso-arch.png)
 
